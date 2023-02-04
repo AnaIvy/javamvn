@@ -2,6 +2,6 @@
 /shelf/
 /workspace.xml
 /target
-
+git rm -r --cached .
 
 
